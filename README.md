@@ -6,6 +6,10 @@ Site acadêmico desenvolvido durante a graduação em Engenharia de Software na 
 
 O site apresenta informações introdutórias sobre a Amazônia e uma galeria de imagens. Também inclui um mapa incorporado e uma interface de formulário de contato.
 
+## Demonstração
+<img width="1375" height="576" alt="image" src="https://github.com/user-attachments/assets/321335ca-98f7-466a-8af0-ca3930154ef6" />
+
+
 ## Tecnologias utilizadas
 
 - HTML5
